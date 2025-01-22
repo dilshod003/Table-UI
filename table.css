@@ -59,3 +59,28 @@ td {
   text-align: left;
   font-size: 18px;
 }
+.img_hat{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.clrd_gr {
+    width: 65px;
+    padding: 5px 15px;
+    background-color: #EBF9F1;
+    color: #1F9254;
+    border-radius: 10px;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.fa-pen-to-square {
+    color: blue;
+}
+.fa-trash-can {
+    color: red;
+}
