@@ -84,3 +84,10 @@ td {
 .fa-trash-can {
     color: red;
 }
+.clrd_orange {
+    width: 65px;
+    padding: 5px 15px;
+    background-color: rgba(255, 166, 0, 0.288);
+    color: orange;
+    border-radius: 10px; 
+}
