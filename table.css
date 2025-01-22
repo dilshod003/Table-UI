@@ -33,9 +33,9 @@ header .left {
   gap: 12px;
   align-items: center;
 }
-input  {
-    outline: none;
-    border: none;
+input {
+  outline: none;
+  border: none;
 }
 
 button {
@@ -44,4 +44,18 @@ button {
   padding: 7px 10px;
   border-radius: 10px;
   border: none;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+  font-size: 18px;
 }
