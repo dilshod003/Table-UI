@@ -91,3 +91,10 @@ td {
     color: orange;
     border-radius: 10px; 
 }
+.clrd_red {
+    width: 65px;
+    padding: 5px 15px;
+    background-color: rgba(255, 0, 0, 0.249);
+    color: red;
+    border-radius: 10px; 
+}
